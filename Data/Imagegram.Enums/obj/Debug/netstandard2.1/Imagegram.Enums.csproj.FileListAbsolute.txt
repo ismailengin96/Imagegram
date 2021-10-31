@@ -1,0 +1,8 @@
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\bin\Debug\netstandard2.1\Imagegram.Enums.deps.json
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\bin\Debug\netstandard2.1\Imagegram.Enums.dll
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\bin\Debug\netstandard2.1\Imagegram.Enums.pdb
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\obj\Debug\netstandard2.1\Imagegram.Enums.AssemblyInfoInputs.cache
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\obj\Debug\netstandard2.1\Imagegram.Enums.AssemblyInfo.cs
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\obj\Debug\netstandard2.1\Imagegram.Enums.csproj.CoreCompileInputs.cache
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\obj\Debug\netstandard2.1\Imagegram.Enums.dll
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Enums\obj\Debug\netstandard2.1\Imagegram.Enums.pdb

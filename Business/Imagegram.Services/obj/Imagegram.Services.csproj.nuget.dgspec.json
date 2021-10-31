@@ -1,0 +1,510 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Business\\Imagegram.Services\\Imagegram.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Business\\Imagegram.Services\\Imagegram.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Business\\Imagegram.Services\\Imagegram.Services.csproj",
+        "projectName": "Imagegram.Services",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Business\\Imagegram.Services\\Imagegram.Services.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Business\\Imagegram.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\Imagegram.Utility.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\Imagegram.Utility.csproj"
+              },
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\Imagegram.DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\Imagegram.DataTransferObjects.csproj"
+              },
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\Imagegram.Repository.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\Imagegram.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\Imagegram.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\Imagegram.Utility.csproj",
+        "projectName": "Imagegram.Utility",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\Imagegram.Utility.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Core\\Imagegram.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj",
+        "projectName": "Imagegram.CustomModels",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\Imagegram.DataTransferObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\Imagegram.DataTransferObjects.csproj",
+        "projectName": "Imagegram.DataTransferObjects",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\Imagegram.DataTransferObjects.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.DataTransferObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj"
+              },
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\Imagegram.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\Imagegram.Data.csproj",
+        "projectName": "Imagegram.Data",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\Imagegram.Data.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj",
+        "projectName": "Imagegram.Models",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\Imagegram.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\Imagegram.Repository.csproj",
+        "projectName": "Imagegram.Repository",
+        "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\Imagegram.Repository.csproj",
+        "packagesPath": "C:\\Users\\newna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\newna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj"
+              },
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\Imagegram.Data.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Data\\Imagegram.Data.csproj"
+              },
+              "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj": {
+                "projectPath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.Models\\Imagegram.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

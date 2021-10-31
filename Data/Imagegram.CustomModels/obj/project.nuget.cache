@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rshL5A0dkIt2FIvWscILb95g9fYDKTUIKGeIuup+zkEB7hGQuaX348b1+JUoaiuosZub1WZ3aeJRDbkPE/mTkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\newna\\source\\repos\\ImagegramWebAPI\\Data\\Imagegram.CustomModels\\Imagegram.CustomModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\newna\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

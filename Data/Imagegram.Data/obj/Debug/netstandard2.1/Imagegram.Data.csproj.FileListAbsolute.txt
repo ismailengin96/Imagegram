@@ -1,0 +1,12 @@
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\bin\Debug\netstandard2.1\Imagegram.Data.deps.json
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\bin\Debug\netstandard2.1\Imagegram.Data.dll
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\bin\Debug\netstandard2.1\Imagegram.Data.pdb
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.AssemblyInfoInputs.cache
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.AssemblyInfo.cs
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.csproj.CoreCompileInputs.cache
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.dll
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.pdb
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\bin\Debug\netstandard2.1\Imagegram.Models.dll
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\bin\Debug\netstandard2.1\Imagegram.Models.pdb
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.csproj.AssemblyReference.cache
+C:\Users\newna\source\repos\ImagegramWebAPI\Data\Imagegram.Data\obj\Debug\netstandard2.1\Imagegram.Data.csproj.CopyComplete
