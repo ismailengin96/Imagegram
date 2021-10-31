@@ -105,8 +105,11 @@ namespace Imagegram.Services.Implementations
 				ImageEncoder encoder = new ImageEncoder();
 				foreach (var file in files)
 				{
-					if(Path.GetExtension(file) != ".jpg")
+					if (Path.GetExtension(file) != ".jpg")
 						imageList.Add(encoder.ConvertImageToJpeg(file));
+					else					
+						imageList.Add(File.ReadAllBytes(file));
+					
 				}
 				postWithComments.ImageList = imageList;
 			}
